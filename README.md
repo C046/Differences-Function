@@ -1,4 +1,3 @@
-# Differences-Function
 # Import the function:
 from differences import diff
 
